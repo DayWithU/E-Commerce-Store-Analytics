@@ -7,8 +7,7 @@ This repository contains a Power Bi dashboard of an E-commerce store to answer q
 
 ## Screenshot
 
-![dashboard preview]
-(https://github.com/)
+![dashboard preview]([https://github.com/DayWithU/E-Commerce-Store_Analytics/blob/main/ecom_analytics-powerBI.png])
 
 ## Installation
 
