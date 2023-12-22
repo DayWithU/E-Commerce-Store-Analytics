@@ -1,4 +1,4 @@
-# E-Commerce-Store_Analytics
+# E-Commerce-Store Analytics
 
 ## Description
 
